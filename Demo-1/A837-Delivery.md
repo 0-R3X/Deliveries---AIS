@@ -28,7 +28,7 @@
 #### Screenshot of Your VS Code with All Extensions Installed  
 Below is a screenshot showing all the required extensions installed in VS Code:  
 ![Installed Extensions](image.png)
-
+![frontend](image-11.png)
 #### List of Shortcuts You've Learned with Their Functions
 
 1. `Ctrl + P` – Quick file navigation  
@@ -55,7 +55,9 @@ Below is a screenshot showing all the required extensions installed in VS Code:
 ### Deliverables:
 
 #### Screenshot of Successful Database Creation  
-The following screenshot confirms successful database creation:  
+The following screenshot confirms successful database creation: 
+![Error](image-5.png) 
+![cause](<Screenshot 2025-07-02 151801.png>)
 ![Showing Database](image-1.png)
 
 #### Results of Running the Sample Queries  
@@ -86,6 +88,7 @@ Queries were executed successfully as shown below:
 Here is the link to the GitHub repository containing all practice files:  
 ![Repository Created](image-6.png)  
 [GitHub Repo: AIS-DevTools](https://github.com/0-R3X/AIS-DevTools)
+![GitHub Desktop](image-12.png)
 
 #### Screenshots of Successful Commits and Pushes  
 Below are screenshots demonstrating successful commits and push operations:  
@@ -116,6 +119,7 @@ Below are screenshots demonstrating successful commits and push operations:
 The following screenshots confirm proper setup and usage of Node.js and NPX:  
 ![Installed Node](image-3.png)  
 ![Running NPX](image-4.png)
+![myapp](image-13.png)
 
 #### Documentation of NPM Commands Practiced
 
@@ -163,4 +167,3 @@ Each setup introduced a different part of the development ecosystem—such as ve
    - **Solution:** Switched to **Command Prompt (CMD)** to successfully run npm commands and install packages without restriction  
 
 ---
-![alt text](image-11.png)
