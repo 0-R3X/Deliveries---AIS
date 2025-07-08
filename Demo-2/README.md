@@ -25,3 +25,6 @@ learning Git and GitHub
 
 - .gitignore
     ![.gitignore](image-6.png)
+
+- branching
+    ![branching](image-7.png)
