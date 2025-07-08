@@ -27,4 +27,8 @@ learning Git and GitHub
     ![.gitignore](image-6.png)
 
 - branching
+<<<<<<< HEAD
     ![branching](image-7.png)
+=======
+    ![branching](image-7.png)
+>>>>>>> devtoolsB1
