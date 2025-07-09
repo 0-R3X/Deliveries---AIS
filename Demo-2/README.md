@@ -27,8 +27,13 @@ learning Git and GitHub
     ![.gitignore](image-6.png)
 
 - branching
-<<<<<<< HEAD
-    ![branching](image-7.png)
-=======
-    ![branching](image-7.png)
->>>>>>> devtoolsB1
+    ![creating a branch](<image-7.png>)
+    ![Prev commits from B1](<image-8.png>)
+    ![Reseting to 2nd prev commit](<image-9.png>)
+    ![reflog](<image-10.png>)
+    ![revisiting to 1st commit](<image-11.png>)
+
+- merging branch with main
+    ![commiting changes in Branch](image-12.png)
+    ![Merging to  main](image-13.png)
+    
